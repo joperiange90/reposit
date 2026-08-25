@@ -1,0 +1,2 @@
+# reposit
+gitignore tells git 
